@@ -1,0 +1,291 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Stephen J. Beard",
+      "title": "NASA moon mission: See the new spacesuit prototype for Artemis III - USA TODAY",
+      "description": "Greater flexibility and better fit for varying body types drive the design of new spacesuits astronauts will wear when humans return to the moon.",
+      "url": "https://www.usatoday.com/in-depth/graphics/2023/04/08/spacesuit-artemis-moon-mission/11476895002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/23/USAT/ea4caaa0-d217-402e-9572-c8144a2147ce-suitcomparepromo.jpg?crop=2795%2C1572%2Cx102%2Cy0&width=1200",
+      "publishedAt": "2023-04-08T10:00:03Z",
+      "content": "When humans return to the moon for the first time in more than 50 years, they'll do so wearing updated spacesuits with greater flexibility and range of motion, expanded research functionality and bet… [+1331 chars]"
+    }
+  ]
+} 
+
+
+
+
+
+
+
+
+
+{
+    "status": "ok",
+    "totalResults": 69,
+    -"articles": [
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CHIP Online Deutschland",
+    "title": "Die Branche bröckelt: Die nächste deutsche Schuhkette meldet Insolvenz an - CHIP Online Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9CcmFuY2hlLWluLWRlci1LcmlzZS1XZWl0ZXJlLWRldXRzY2hlLVNjaHVoa2V0dGUtaXN0LWluc29sdmVudF8xODQ3MjI0MzAuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T14:33:04Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "gofeminin",
+    "title": "Strammer Max mit Wachtelei: Perfekt als Vorspeise oder Brunch - gofeminin",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmdvZmVtaW5pbi5kZS9rb2NoZW4tYmFja2VuL3N0cmFtbWVyLW1heC13YWNodGVsZWktczQwNjIxOTYuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T12:55:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "WinFuture",
+    "title": "Stromkosten: Bestandskunden hängen jetzt in überteuerten Tarifen fest - WinFuture",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd2luZnV0dXJlLmRlL25ld3MsMTM1NDkxLmh0bWzSASZodHRwczovL20ud2luZnV0dXJlLmRlL2FtcC9uZXdzLzEzNTQ5MQ?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T11:54:32Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "inside digital",
+    "title": "Inflation bei Internet & Mobilfunk: Telekom, Vodafone & O2 erhöhen die Preise - inside digital",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmluc2lkZS1kaWdpdGFsLmRlL25ld3MvaW5mbGF0aW9uLWJlaS1pbnRlcm5ldC1tb2JpbGZ1bmstdGVsZWtvbS12b2RhZm9uZS1vMi1lcmhvZWhlbi1kaWUtcHJlaXNl0gFvaHR0cHM6Ly93d3cuaW5zaWRlLWRpZ2l0YWwuZGUvbmV3cy9pbmZsYXRpb24tYmVpLWludGVybmV0LW1vYmlsZnVuay10ZWxla29tLXZvZGFmb25lLW8yLWVyaG9laGVuLWRpZS1wcmVpc2UvYW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T11:30:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "inside digital",
+    "title": "Router-Schnäppchen: FritzBox & Repeater im Angebot - inside digital",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lmluc2lkZS1kaWdpdGFsLmRlL2RlYWxzL3JvdXRlci1zY2huYWVwcGNoZW4tZnJpdHpib3gtdW5kLXJlcGVhdGVyLWltLWFuZ2Vib3TSAVxodHRwczovL3d3dy5pbnNpZGUtZGlnaXRhbC5kZS9kZWFscy9yb3V0ZXItc2NobmFlcHBjaGVuLWZyaXR6Ym94LXVuZC1yZXBlYXRlci1pbS1hbmdlYm90L2FtcA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T11:27:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "t3n – digital pioneers",
+    "title": "Tesla-Mitarbeiter witzeln über private Videoaufnahmen von Fahrzeugkameras - t3n – digital pioneers",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdDNuLmRlL25ld3MvdGVzbGEtbWl0YXJiZWl0ZXItc2NoaWNrZW4tcHJpdmF0ZS12aWRlby1hdWZuYWhtZW4tZmFocnpldWdrYW1lcmFzLTE1NDYxOTkv0gFjaHR0cHM6Ly90M24uZGUvbmV3cy90ZXNsYS1taXRhcmJlaXRlci1zY2hpY2tlbi1wcml2YXRlLXZpZGVvLWF1Zm5haG1lbi1mYWhyemV1Z2thbWVyYXMtMTU0NjE5OS9hbXAv?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T10:00:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "inside digital",
+    "title": "Keine Lust auf Soundbar? Diese Alternative kennt kaum jemand - inside digital",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lmluc2lkZS1kaWdpdGFsLmRlL3JhdGdlYmVyL2tlaW5lLWx1c3QtYXVmLXNvdW5kYmFyLWRpZXNlLWFsdGVybmF0aXZlLWtlbm50LWthdW0tamVtYW5k0gFmaHR0cHM6Ly93d3cuaW5zaWRlLWRpZ2l0YWwuZGUvcmF0Z2ViZXIva2VpbmUtbHVzdC1hdWYtc291bmRiYXItZGllc2UtYWx0ZXJuYXRpdmUta2VubnQta2F1bS1qZW1hbmQvYW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T10:00:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "heise online",
+    "title": "EU-Cloud-Wettbewerber: Microsofts Preissteigerungen reichen an Erpressung - heise online",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvRVUtQ2xvdWQtV2V0dGJld2VyYmVyLU1pY3Jvc29mdHMtUHJlaXNzdGVpZ2VydW5nZW4tcmVpY2hlbi1hbi1FcnByZXNzdW5nLTg4NDgxNTcuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T09:59:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Merkur.de",
+    "title": "Supermarkt-Bon aus Bayern vom 14.11.1998 aufgetaucht – ein Produkt ist 2023 günstiger - Merkur.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5tZXJrdXIuZGUvYmF5ZXJuL251ZXJuYmVyZy9zdXBlcm1hcmt0LW1hcmt0a2F1Zi1iYWQtdG9lbHotMTk5OC1rYXNzZW5ib24temFobnBhc3RhLXByZWlzdmVyZ2xlaWNoLWQtbWFyay1ldXJvLTkyMjAwNjE0Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T09:50:43Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Golem.de",
+    "title": "Studie: Nur ein Bruchteil der Kryptowährungsbesitzer zahlt Steuern - Golem.de - Golem.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3Mvc3R1ZGllLW51ci1laW4tYnJ1Y2h0ZWlsLWRlci1rcnlwdG93YWVocnVuZ3NiZXNpdHplci16YWhsdC1zdGV1ZXJuLTIzMDQtMTczMzA1Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T08:12:01Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "TeslaMag.de",
+    "title": "Deutscher Tesla-Rekordfahrer will noch weiter – wartet aber seit Monaten auf neuen Akku - TeslaMag.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdGVzbGFtYWcuZGUvbmV3cy9kZXV0c2NoZXItdGVzbGEtdmllbGZhaHJlci13YXJ0ZW4tbW9uYXRlbi1uZXVlci1ha2t1LTU3Nzg10gFXaHR0cHM6Ly90ZXNsYW1hZy5kZS9uZXdzL2RldXRzY2hlci10ZXNsYS12aWVsZmFocmVyLXdhcnRlbi1tb25hdGVuLW5ldWVyLWFra3UtNTc3ODUvYW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T08:10:42Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Golem.de",
+    "title": "Sperre von Substack: Elon Musk behindert erneut Twitter-Konkurrenten - Golem.de - Golem.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3Mvc3BlcnJlLXZvbi1zdWJzdGFjay1lbG9uLW11c2stYmVoaW5kZXJ0LWVybmV1dC10d2l0dGVyLWtvbmt1cnJlbnRlbi0yMzA0LTE3MzMwNC5odG1s0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T07:44:02Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "GoldSeiten.de",
+    "title": "Goldnachfrage explodiert, während der Dollar einbricht – Bill Holter - GoldSeiten.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdvbGRzZWl0ZW4uZGUvYXJ0aWtlbC81NzUzMzctLUdvbGRuYWNoZnJhZ2UtZXhwbG9kaWVydC13YWVocmVuZC1kZXItRG9sbGFyLWVpbmJyaWNodC0tQmlsbC1Ib2x0ZXIuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T07:27:09Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "watson",
+    "title": "Supermarkt: Aldi kündigt große Änderung bei Spargelverkauf an - watson",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LndhdHNvbi5kZS9sZWJlbi9nZWxkJTIwJiUyMHNob3BwaW5nLzg5NzE4MDM2NC1zdXBlcm1hcmt0LWFsZGkta3VlbmRpZ3QtZ3Jvc3NlLWFlbmRlcnVuZy1iZWktc3BhcmdlbHZlcmthdWYtYW7SASRodHRwczovL3d3dy53YXRzb24uZGUvYW1wLyE4OTcxODAzNjQ?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T07:00:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "gofeminin",
+    "title": "Eier in Senfsoße: Blitzrezept für die Ostertage - gofeminin",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdvZmVtaW5pbi5kZS9rb2NoZW4tYmFja2VuL3NlbmZlaWVyLW1pdC1rYXJ0b2ZmZWxzdGFtcGYtczQwNjIwMTMuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T06:35:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Business Insider Deutschland",
+    "title": "Laut Forbes: Das sind die zehn reichsten Frauen der Welt - Business Insider Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5kZS93aXJ0c2NoYWZ0L2xhdXQtZm9yYmVzLWRhcy1zaW5kLWRpZS0xMC1yZWljaHN0ZW4tZnJhdWVuLWF1Zi1kZXItd2VsdC_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T06:25:50Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Business Insider Deutschland",
+    "title": "Ernst & Young: Was im Lebenslauf laut HR-Direktor nicht fehlen darf - Business Insider Deutschland",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5kZS9rYXJyaWVyZS9lcm5zdC15b3VuZy13YXMtaW4tZGVtLWxlYmVuc2xhdWYtbGF1dC1kaWVzZW0taHItZGlyZWt0b3ItbmljaHQtZmVobGVuLWRhcmYv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T06:24:03Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "tagesschau.de",
+    "title": "Preisanstieg bei Reisen: Beliebte Urlaubsziele werden immer teurer - tagesschau.de",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvd2lydHNjaGFmdC92ZXJicmF1Y2hlci91cmxhdWJzcHJlaXNlLWFuc3RpZWctY29yb25hLWluZmxhdGlvbi0xMDEuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T06:15:51Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Berliner Zeitung",
+    "title": "„KI-Flüsterer“: Wie Historiker und Philosophen mit ChatGPT bis zu 335.000 Dollar jährlich verdienen - Berliner Zeitung",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5iZXJsaW5lci16ZWl0dW5nLmRlL25ld3Mva2ktZmx1ZXN0ZXJlci13aWUtaGlzdG9yaWtlci11bmQtcGhpbG9zb3BoZW4tbWl0LWNoYXRncHQtdW5kLWNvLWJpcy16dS0zMzUwMDAtZG9sbGFyLWphZWhybGljaC12ZXJkaWVuZW4ta3VlbnN0bGljaGUtaW50ZWxsaWdlbnotbGkuMzM2MzQ20gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T05:44:55Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "GIGA",
+    "title": "Lidl verkauft Dienstag ein praktisches Smartphone-Zubehör viel günstiger - GIGA",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmdpZ2EuZGUvYXJ0aWtlbC9saWRsLXZlcmthdWZ0LWRpZW5zdGFnLWVpbi1wcmFrdGlzY2hlcy1zbWFydHBob25lLXp1YmVob2VyLXZpZWwtZ3VlbnN0aWdlci_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-09T05:15:31Z",
+    "content": null
+    }
+    ]
+    }
