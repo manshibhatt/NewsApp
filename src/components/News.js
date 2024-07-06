@@ -19,9 +19,10 @@ const News=(props)=> {
   const updateNews= async()=>{ 
     //at the time of loading
     props.setProgress(10);
-    const url = `http://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; //fetches news from api through this url
+    // const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; //fetches news from api through this url
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+
     // setState({ loading: true });
-    console.log("Fetching URL:", url);
     setLoading(true)
     try {
       let response = await fetch(url);
