@@ -21,18 +21,25 @@ const News=(props)=> {
     props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; //fetches news from api through this url
     // setState({ loading: true });
+    console.log("Fetching URL:", url);
     setLoading(true)
-    let data = await fetch(url);
-    props.setProgress(30);
-    let parseData = await data.json();
-    props.setProgress(50);
-
-    setArticles(parseData.articles)
-    setLoading(false)
-    settotalResults(parseData.totalResults)
-
-    console.log(parseData);
-    props.setProgress(100);
+    try {
+      let response = await fetch(url);
+      props.setProgress(30);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      let parsedData = await response.json();
+      console.log("API Response:", parsedData);  // Log the response data
+      props.setProgress(50);
+      setArticles(parsedData.articles || []);
+      setLoading(false);
+      settotalResults(parsedData.totalResults || 0);
+      props.setProgress(100);
+    } catch (error) {
+      console.error("Error fetching news:", error);  // Log any errors
+      setLoading(false);
+    }
   }
 
   useEffect(()=>{ 
