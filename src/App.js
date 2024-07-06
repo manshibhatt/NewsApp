@@ -20,6 +20,7 @@ const App=()=> {
   //state is an object
   const pageSize=6; 
   const apiKey=process.env.REACT_APP_NEWS_API
+  console.log("API Key:", apiKey);
   // state={
   //   progress:0
   // }
