@@ -19,7 +19,7 @@ const News=(props)=> {
   const updateNews= async()=>{ 
     //at the time of loading
     props.setProgress(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; //fetches news from api through this url
+    const url = `http://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; //fetches news from api through this url
     // setState({ loading: true });
     console.log("Fetching URL:", url);
     setLoading(true)
