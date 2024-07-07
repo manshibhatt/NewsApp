@@ -19,7 +19,7 @@ const App=()=> {
   // c='John'; //class variable
   //state is an object
   const pageSize=6; 
-  const apiKey=process.env.REACT_APP_NEWS_API
+  const apiKey="bc46b2505e334ec2b2752d07b164e924";
   // state={
   //   progress:0
   // }
